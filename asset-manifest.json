@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reaectestore/static/css/main.62e0b060.chunk.css",
-    "main.js": "/reaectestore/static/js/main.d59ca971.chunk.js",
-    "main.js.map": "/reaectestore/static/js/main.d59ca971.chunk.js.map",
+    "main.js": "/reaectestore/static/js/main.be04704b.chunk.js",
+    "main.js.map": "/reaectestore/static/js/main.be04704b.chunk.js.map",
     "runtime-main.js": "/reaectestore/static/js/runtime-main.1807d677.js",
     "runtime-main.js.map": "/reaectestore/static/js/runtime-main.1807d677.js.map",
     "static/js/2.12bf0e66.chunk.js": "/reaectestore/static/js/2.12bf0e66.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.1807d677.js",
     "static/js/2.12bf0e66.chunk.js",
     "static/css/main.62e0b060.chunk.css",
-    "static/js/main.d59ca971.chunk.js"
+    "static/js/main.be04704b.chunk.js"
   ]
 }
