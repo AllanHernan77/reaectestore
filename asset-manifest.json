@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/reaectestore/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/reaectestore/static/js/main.6f19c04a.chunk.js",
-    "main.js.map": "/reaectestore/static/js/main.6f19c04a.chunk.js.map",
-    "runtime-main.js": "/reaectestore/static/js/runtime-main.3f0fb446.js",
-    "runtime-main.js.map": "/reaectestore/static/js/runtime-main.3f0fb446.js.map",
-    "static/js/2.ecd6cb02.chunk.js": "/reaectestore/static/js/2.ecd6cb02.chunk.js",
-    "static/js/2.ecd6cb02.chunk.js.map": "/reaectestore/static/js/2.ecd6cb02.chunk.js.map",
-    "static/js/3.9f62d327.chunk.js": "/reaectestore/static/js/3.9f62d327.chunk.js",
-    "static/js/3.9f62d327.chunk.js.map": "/reaectestore/static/js/3.9f62d327.chunk.js.map",
+    "main.css": "/reaectestore/static/css/main.62e0b060.chunk.css",
+    "main.js": "/reaectestore/static/js/main.0d429163.chunk.js",
+    "main.js.map": "/reaectestore/static/js/main.0d429163.chunk.js.map",
+    "runtime-main.js": "/reaectestore/static/js/runtime-main.1807d677.js",
+    "runtime-main.js.map": "/reaectestore/static/js/runtime-main.1807d677.js.map",
+    "static/js/2.12bf0e66.chunk.js": "/reaectestore/static/js/2.12bf0e66.chunk.js",
+    "static/js/2.12bf0e66.chunk.js.map": "/reaectestore/static/js/2.12bf0e66.chunk.js.map",
+    "static/js/3.c9a1e1b7.chunk.js": "/reaectestore/static/js/3.c9a1e1b7.chunk.js",
+    "static/js/3.c9a1e1b7.chunk.js.map": "/reaectestore/static/js/3.c9a1e1b7.chunk.js.map",
     "index.html": "/reaectestore/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/reaectestore/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ecd6cb02.chunk.js.LICENSE.txt": "/reaectestore/static/js/2.ecd6cb02.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/reaectestore/static/media/logo.6ce24c58.svg"
+    "static/css/main.62e0b060.chunk.css.map": "/reaectestore/static/css/main.62e0b060.chunk.css.map",
+    "static/js/2.12bf0e66.chunk.js.LICENSE.txt": "/reaectestore/static/js/2.12bf0e66.chunk.js.LICENSE.txt",
+    "static/media/elogo.c52f1254.png": "/reaectestore/static/media/elogo.c52f1254.png",
+    "static/media/logo.1535a259.jpg": "/reaectestore/static/media/logo.1535a259.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f0fb446.js",
-    "static/js/2.ecd6cb02.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6f19c04a.chunk.js"
+    "static/js/runtime-main.1807d677.js",
+    "static/js/2.12bf0e66.chunk.js",
+    "static/css/main.62e0b060.chunk.css",
+    "static/js/main.0d429163.chunk.js"
   ]
 }
