@@ -1,38 +1,111 @@
-.App {
-  text-align: center;
+body{
+  background-color: #0d1117;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a{
+  text-decoration: none
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.navbar{
+  background-color: #161b22;
+  width: 100%;
+  height: 8vh;
   display: flex;
-  flex-direction: column;
+  justify-content: space-around;
+  position: static;
+}
+
+.navblocks{
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  display: flex;
+  flex-direction: row;
+  width: 40%;
+  height: 8vh;
+  justify-content: space-around;
+}
+.logo{
+  width: 14vh;
+  height: 5vh;
+}
+
+.navElement{
   color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+  font-size: 2.5vh;
 }
 
-.App-link {
-  color: #61dafb;
+.landingPage{
+
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.landingLogo{
+  width:  60vh;
+  height: 42vh;
+
+}
+
+.landingHeader{
+  color: white;
+  margin: 0vh 0vh 20vh 0vh;
+  font-size: 4vh;
+  font-weight: bold;
+}
+
+
+.landingP{
+  color: white;
+  margin: -15vh 0vh 0vh 0vh;
+  font-size: 1.5vh;
+  position: absolute;
+}
+
+
+.storePage{
+  max-width: 100%;
+  display: flex;
+  margin: auto;
+  height: 100vh;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+
+
+.productGrid{
+  display:inline; 
+  font-size: 2.5vh;
+  background-color: white;
+  height: 40vh;
+  width: 40vh;
+  margin: 3vh;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  display: flex;
+  flex-wrap: wrap;  
+  justify-content: center;
+}
+     
+
+.products {
+  display: flex;
+  flex-direction: row; 
+  flex-wrap: wrap;
+  margin: 10vh;
+
+}
+
+.searchbar{
+  width: 40vh;
+  height: 2vh;
+}
+
+.productImg{
+  height: 20vh;
+  width: 20vh;
+}
+
+button{
+  width: 10vh;
 }
