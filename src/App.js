@@ -43,16 +43,16 @@ class App extends React.Component {
           <div className = "navbar">
             <div className = "navblocks">
               <img src ={logo} alt = "logo" className =  "logo"></img>
-              <a href = "#"> <h1 className = "navElement">Start</h1> </a>
-              <a href = "#"><h1 className = "navElement">Sell</h1></a>
-              <a href = "#"><h1 className = "navElement">Market</h1></a>
-              <a href = "#"><h1 className = "navElement">Manage</h1></a>
+              <a href = "https://allanhernan77.github.io/reaectestore/"> <h1 className = "navElement">Start</h1> </a>
+              <a href = "https://allanhernan77.github.io/reaectestore/"><h1 className = "navElement">Sell</h1></a>
+              <a href = "https://allanhernan77.github.io/reaectestore/"><h1 className = "navElement">Market</h1></a>
+              <a href = "https://allanhernan77.github.io/reaectestore/"><h1 className = "navElement">Manage</h1></a>
             </div>
             <div className = "navblocks">
-            <a href = "#"><h1 className = "navElement">Pricing</h1></a>
-            <a href = "#"><h1 className = "navElement">Learn</h1></a>
-            <a href = "#"><h1 className = "navElement">Log In</h1></a>
-            <a href = "#"><h1 className = "navElement test">Cart {this.state.Price}$</h1></a>
+            <a href = "https://allanhernan77.github.io/reaectestore/"><h1 className = "navElement">Pricing</h1></a>
+            <a href = "https://allanhernan77.github.io/reaectestore/"><h1 className = "navElement">Learn</h1></a>
+            <a href = "https://allanhernan77.github.io/reaectestore/"><h1 className = "navElement">Log In</h1></a>
+            <a href = "https://allanhernan77.github.io/reaectestore/"><h1 className = "navElement test">Cart {this.state.Price}$</h1></a>
             </div>
           </div>
 
